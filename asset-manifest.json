@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-project/static/css/main.cfd96eec.css",
+    "main.js": "/my-project/static/js/main.c1bfde27.js",
+    "static/media/bg_aptech-buzz.jpg": "/my-project/static/media/bg_aptech-buzz.3910f6e0044fb78f06c1.jpg",
+    "static/media/bg_edu-partner.jpg": "/my-project/static/media/bg_edu-partner.6d1bf74b0297a39d19be.jpg",
+    "static/media/bg_tech.jpg": "/my-project/static/media/bg_tech.15ec564806106459d8f6.jpg",
+    "index.html": "/my-project/index.html",
+    "main.cfd96eec.css.map": "/my-project/static/css/main.cfd96eec.css.map",
+    "main.c1bfde27.js.map": "/my-project/static/js/main.c1bfde27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfd96eec.css",
+    "static/js/main.c1bfde27.js"
+  ]
+}
